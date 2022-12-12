@@ -15,7 +15,7 @@ For this project, I explored what a good analytics PowerPoint presentation shoul
 
 ---
 #### [External Link Project](https://www.linkedin.com/pulse/marketing-insights-from-doordash-case-study-nurul-hafizah-hairi/)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
+[<img src="images/DoorDash header2.png?raw=true"/>](https://www.linkedin.com/pulse/marketing-insights-from-doordash-case-study-nurul-hafizah-hairi/)
 Marketing Insights from DoorDash Case Study 
 
 ---
